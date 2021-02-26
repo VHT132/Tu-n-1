@@ -1,0 +1,17 @@
+A
+1 giá trị của isA sẽ là true ( hay 1 )
+2 0
+3 vì câu lệnh yêu cầu tính y^2
+4 true
+5 In ra kết quả inf
+6 chương trình đưa ra kết quả là 0
+7 0
+  0.75
+  0.75
+  0.75	
+8 chương trình sẽ báo lỗi có mâu thuẫn giữa biến
+9 biến kí tự 'A'
+10 biến số -1
+11 
+12 Here
+
